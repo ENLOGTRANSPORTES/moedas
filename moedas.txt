@@ -1,5 +1,5 @@
 {
-    "xml": {
+    "moedas": {
         "USD-BRL": "Dólar Americano/Real Brasileiro",
         "USD-BRLT": "Dólar Americano/Real Brasileiro Turismo",
         "CAD-BRL": "Dólar Canadense/Real Brasileiro",
